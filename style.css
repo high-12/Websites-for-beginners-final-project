@@ -1,0 +1,120 @@
+nav{
+    float: up;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;
+    background-color: orange;
+    text-align: center
+    ;
+    padding: 2%;
+    border: 5px solid black;
+}
+h1{
+    background-color: orange;
+    text-align: center;
+
+}
+h2{
+    background-color: darkgoldenrod
+    ;
+    text-align: center;
+    
+}
+.healthtips{
+    float: left;
+    margin: 5in;
+    padding-bottom: 50%;
+    background-color: aquamarine;
+    
+}
+h4{
+    background-color: darkgreen;
+    text-align: center;
+    position: relative;
+    float: left;
+    padding: bottom 100px;
+    margin: 10px;
+    
+}
+p{
+    font-size: medium;
+    font-style: oblique;
+    font-weight: bold;
+    background-color: dodgerblue;
+         
+}
+.image{
+    background-color: orange;
+    width: 100%;
+    margin: auto;
+    padding: auto;  
+}
+.image2{
+    background-color: orange; 
+    margin: auto; 
+    border: 5px solid black; 
+}
+.container{
+    background-color: bisque;
+    padding:20px       
+}
+input[type=submit] {
+    background-color: red;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  input[type=text], select, textarea {
+    width: 100%; 
+    padding: 12px;  
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+    margin-top: 6px; 
+    margin-bottom: 16px; 
+    resize: vertical 
+  }
+  
+.phonenumber{
+    background-color: beige;
+    text-align: center;   
+}
+h5{
+    font-size: x-large;
+    text-align: center;   
+}
+.center{
+    
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;     
+}
+.footer{
+    background-color: beige;
+    text-align: center;
+    font-size: large; 
+    font-style: normal; 
+
+}
+.logo{
+    float: up;
+    margin: 1px;
+    padding-bottom: 30px; 
+    padding: 10px;      
+}
+.hero-image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("sunrise.jpeg");
+}
+h5{
+    background-color: darkgreen;
+    text-align: center;
+    position: relative;
+    float: left;
+    padding: bottom 10px;right: 10px; 
+    float: up;
+    margin: 10px;
+    
+}
+
+
